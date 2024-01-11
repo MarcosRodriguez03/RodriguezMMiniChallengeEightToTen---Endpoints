@@ -1,0 +1,33 @@
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/appsettings.Development.json
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/appsettings.json
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.deps.json
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.runtimeconfig.json
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.dll
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.pdb
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.csproj.AssemblyReference.cache
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.AssemblyInfoInputs.cache
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.AssemblyInfo.cs
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.csproj.CoreCompileInputs.cache
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cs
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.MvcApplicationPartsAssemblyInfo.cache
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.RodriguezMMiniChallengeEightToTen - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.build.RodriguezMMiniChallengeEightToTen - Endpoints.props
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.RodriguezMMiniChallengeEightToTen - Endpoints.props
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.RodriguezMMiniChallengeEightToTen - Endpoints.props
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets.build.json
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/staticwebassets.development.json
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/scopedcss/bundle/RodriguezMMiniChallengeEightToTen - Endpoints.styles.css
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.csproj.CopyComplete
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.dll
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/refint/RodriguezMMiniChallengeEightToTen - Endpoints.dll
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.pdb
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/RodriguezMMiniChallengeEightToTen - Endpoints.genruntimeconfig.cache
+/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeEightToTen - Endpoints/obj/Debug/net7.0/ref/RodriguezMMiniChallengeEightToTen - Endpoints.dll
